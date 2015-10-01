@@ -1,6 +1,6 @@
 <? php
 $ LANG_INFO  =  Array (
-    'Namen'  =>  'en', 'Flag' => 'gb', 'Titel' => 'Englisch'    
+    'Namen'  =>  'de', 'Flag' => 'de', 'Titel' => 'German'    
 );
 $ LANG =  Array (
   '_ABOUT_US'  =>  'Diese Seite ist durch <a href="http://www.boonex.com/dolphin" target="_blank"> BoonEx Dolphin </a> angetrieben. Der Rest ist ein Geheimnis. ",
